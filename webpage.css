@@ -1,0 +1,38 @@
+/*
+    Temple Chestnut
+    10/16/2024
+*/
+
+h1 {text-align: center;
+    color: rgb(9, 189, 171);}
+
+h2 {
+    text-align: center;
+    text-decoration: Italic;
+    color: maroon;
+}
+
+h3 {
+    transform: rotate(90deg) !important;
+    transform-origin: middle left; /* Or other values like 'top right' or 'center' */
+    color: blueviolet !important;
+    font-size: x-large !important;
+    overflow: visible;
+    text-align: center vertical;
+
+}
+
+body {
+    font-size: x-large;
+    margin: 1px;
+    border: royalblue 4px solid;
+}
+
+h4 {
+    text-align: left;
+    color: darkorange;
+}
+footer {
+    border: gold 6px dashed;
+    color: darkorange;
+}
